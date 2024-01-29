@@ -1,0 +1,8 @@
+[gauntlet]
+name = 'PowerToys'
+
+[[entrypoint]]
+id = 'format_json'
+name = 'Format JSON in Clipboard'
+path = 'src/format_json.ts'
+type = 'command'

@@ -1,0 +1,8 @@
+[gauntlet]
+name = 'Applications'
+
+[[entrypoint]]
+id = 'file_manager'
+name = 'File Manager'
+path = 'src/noop.ts'
+type = 'command'

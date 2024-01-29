@@ -1,0 +1,8 @@
+[gauntlet]
+name = 'Dolor Sit Amet'
+
+[[entrypoint]]
+id = 'ipsum'
+name = 'Lorem Ipsum'
+path = 'src/ipsum.ts'
+type = 'command'

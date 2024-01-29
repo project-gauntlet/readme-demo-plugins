@@ -1,0 +1,8 @@
+[gauntlet]
+name = 'StarWars'
+
+[[entrypoint]]
+id = 'ezaraa'
+name = 'Ezaraa'
+path = 'src/ezaraa.tsx'
+type = 'view'

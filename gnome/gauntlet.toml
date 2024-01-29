@@ -1,0 +1,8 @@
+[gauntlet]
+name = 'Gnome'
+
+[[entrypoint]]
+id = 'take_screenshot'
+name = 'Take Screenshot'
+path = 'src/noop.ts'
+type = 'command'

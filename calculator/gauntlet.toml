@@ -1,0 +1,8 @@
+[gauntlet]
+name = 'Calculator'
+
+[[entrypoint]]
+id = 'calculator'
+name = 'Calculator'
+path = 'src/noop.ts'
+type = 'command'

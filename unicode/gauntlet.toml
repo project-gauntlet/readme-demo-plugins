@@ -1,0 +1,8 @@
+[gauntlet]
+name = 'Unicode Tools'
+
+[[entrypoint]]
+id = 'emojis'
+name = 'Emojis'
+path = 'src/noop.ts'
+type = 'command'

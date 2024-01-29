@@ -1,0 +1,8 @@
+[gauntlet]
+name = 'Foodie'
+
+[[entrypoint]]
+id = 'create_food'
+name = 'Create food'
+path = 'src/create_food.tsx'
+type = 'view'

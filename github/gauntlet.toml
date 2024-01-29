@@ -1,0 +1,8 @@
+[gauntlet]
+name = 'Github'
+
+[[entrypoint]]
+id = 'issue'
+name = 'Create issue'
+path = 'src/noop.ts'
+type = 'command'
